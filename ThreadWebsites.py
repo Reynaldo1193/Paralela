@@ -32,4 +32,4 @@ task_queue.join()
 
 end_time = time.time()
 
-print("Time for ThreadedSquirrel: %ssecs" % (end_time - start_time))
+print("Time taken with Threads: %ssecs" % (end_time - start_time))

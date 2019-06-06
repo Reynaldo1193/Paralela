@@ -1,5 +1,3 @@
-# serial_squirrel.py
-
 import time
 import websites
 import Utilities
@@ -12,4 +10,4 @@ for address in websites.WEBSITE_LIST:
 
 end_time = time.time()
 
-print("Time for SerialSquirrel: %ssecs" % (end_time - start_time))
+print("Time taken Serialiced: %ssecs" % (end_time - start_time))

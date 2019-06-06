@@ -25,7 +25,6 @@ WEBSITE_LIST = [
     'http://instagram.com',
     'http://snapchat.com',
     'http://youtube.com',
-    'http://baidu.com',
     'http://yahoo.com',
     'http://live.com',
     'http://linkedin.com',
